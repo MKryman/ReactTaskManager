@@ -1,0 +1,15 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-group-addon i {
+  margin-left: -30px;
+  cursor: pointer;
+  z-index: 200;
+  position: absolute;
+  font-size: large;
+  color: #6c757d;
+}
